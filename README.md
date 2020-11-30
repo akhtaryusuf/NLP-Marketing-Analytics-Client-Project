@@ -4,7 +4,7 @@ NLP Project on Sentiment Analysis and Topic Identification for customer reviews 
 Added just the sketch of the testing and pre-finalized code. Need to sort and re-order
 
 # Getting Started
-Used the dataset provided by the client as part of NPS Survey where feedback about the product was sought. Data isn't shared as this was a clinet consultation project
+Used the dataset provided by the client as part of NPS Survey where feedback about the product was sought. Data isn't shared as this was a client consultation project
 
 # Prerequisites
 Packages Used: NLTK,Gensim,Seaborn,Matplotlib,MultinomialNB, Keras, TextBlob, OneHotEncoder
